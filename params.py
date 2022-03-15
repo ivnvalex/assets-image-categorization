@@ -1,0 +1,1 @@
+labels = ('Cars', 'Plants', 'Stuff')
