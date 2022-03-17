@@ -33,7 +33,6 @@ for item in data['test_bundle']:
 print('Cars list:')
 for car in cars:
     print(car)
-
 print('Plants list:')
 for plant in plants:
     print(plant)
