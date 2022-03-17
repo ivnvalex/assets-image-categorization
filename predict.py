@@ -30,9 +30,9 @@ for item in data['test_bundle']:
     elif label == 'Plants':
         plants.append({'file': file_name, 'probability': score})
 
-print('Cars list:')
+print('Cars predicted:')
 for car in cars:
     print(car)
-print('Plants list:')
+print('Plants predicted:')
 for plant in plants:
     print(plant)
