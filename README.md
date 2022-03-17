@@ -21,3 +21,5 @@ Cars predicted:
 Plants predicted:
 
 {'file': '7e5ba16b-6223-41f3-8f64-07ea079ece48.png', 'probability': 0.9997192}
+
+![](https://github.com/ivnvalex/image-categorization/blob/main/live-demo.gif)
