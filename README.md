@@ -15,9 +15,7 @@ Cars predicted:
 {'file': '2873600a-fa17-4625-94c9-0a728b563dab.png', 'probability': 0.9997311}
 
 .
-
 .
-
 .
 
 Plants predicted:
