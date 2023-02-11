@@ -1,4 +1,5 @@
-# image-categorization
+# assets-image-categorization
+One of the test tasks made during interviews for one of the companies.
 
 Usage:
 
